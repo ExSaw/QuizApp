@@ -69,7 +69,7 @@
   <img src=https://user-images.githubusercontent.com/86077011/141290606-b3d94207-d9df-42e7-9787-ee4350c0c596.jpg alt="Logo" width="160" height="300">
 
 
-App an template for similar apps. You can test your knowledges with it.
+The app and a template for similar apps. You can test your knowledges with it.
 
 ### Built With
 * [Kotlin](https://kotlinlang.org)
