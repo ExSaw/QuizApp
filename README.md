@@ -64,7 +64,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-  <img src=![photo_2021-11-11_16-31-24](https://user-images.githubusercontent.com/86077011/141290599-e9161392-f6b7-436f-a829-f8f9d5537f83.jpg) alt="Logo" width="100" height="160">
+  <img src=https://user-images.githubusercontent.com/86077011/141290599-e9161392-f6b7-436f-a829-f8f9d5537f83.jpg alt="Logo" width="100" height="160">
 ![photo_2021-11-11_16-31-24](https://user-images.githubusercontent.com/86077011/141290599-e9161392-f6b7-436f-a829-f8f9d5537f83.jpg)
 ![photo_2021-11-11_16-31-25](https://user-images.githubusercontent.com/86077011/141290603-570c2fa4-a187-4a17-9288-f7a53abb21bd.jpg)
 ![photo_2021-11-11_16-31-25 (2)](https://user-images.githubusercontent.com/86077011/141290606-b3d94207-d9df-42e7-9787-ee4350c0c596.jpg)
