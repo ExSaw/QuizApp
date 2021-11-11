@@ -68,7 +68,7 @@
 ![photo_2021-11-11_15-55-43](https://user-images.githubusercontent.com/86077011/141287899-6a97e27d-bae9-46f1-8dcc-9c73fe4ac52c.jpg)
 
 
-Simple old game from childhood.
+App an template for similar apps. You can test your knowledges with it.
 
 ### Built With
 * [Kotlin](https://kotlinlang.org)
