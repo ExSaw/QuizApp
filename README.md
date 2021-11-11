@@ -71,10 +71,7 @@
 Simple old game from childhood.
 
 ### Built With
-* [Java](https://www.java.com)
-* [libGDX](https://libgdx.com)
-<!-- * [GLSL](https://wikipedia.org/wiki/OpenGL_Shading_Language) -->
-* [OpenGL ES 2.0](https://www.opengl.org)
+* [Kotlin](https://kotlinlang.org)
 
 
 <!-- GETTING STARTED -->
