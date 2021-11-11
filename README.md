@@ -64,9 +64,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-  <img src=https://user-images.githubusercontent.com/86077011/141290599-e9161392-f6b7-436f-a829-f8f9d5537f83.jpg alt="Logo" width="160" height="260">
-  <img src=https://user-images.githubusercontent.com/86077011/141290603-570c2fa4-a187-4a17-9288-f7a53abb21bd.jpg alt="Logo" width="100" height="160">
-  <img src=https://user-images.githubusercontent.com/86077011/141290606-b3d94207-d9df-42e7-9787-ee4350c0c596.jpg alt="Logo" width="100" height="160">
+  <img src=https://user-images.githubusercontent.com/86077011/141290599-e9161392-f6b7-436f-a829-f8f9d5537f83.jpg alt="Logo" width="260" height="360">
+  <img src=https://user-images.githubusercontent.com/86077011/141290603-570c2fa4-a187-4a17-9288-f7a53abb21bd.jpg alt="Logo" width="260" height="360">
+  <img src=https://user-images.githubusercontent.com/86077011/141290606-b3d94207-d9df-42e7-9787-ee4350c0c596.jpg alt="Logo" width="260" height="360">
 
 
 App an template for similar apps. You can test your knowledges with it.
